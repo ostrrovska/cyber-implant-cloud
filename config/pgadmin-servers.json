@@ -1,0 +1,13 @@
+{
+  "Servers": {
+    "1": {
+      "Name": "Cyber-Implant Cloud (docker)",
+      "Group": "Servers",
+      "Host": "postgres",
+      "Port": 5432,
+      "MaintenanceDB": "cyberimplant",
+      "Username": "cyberimplant",
+      "SSLMode": "prefer"
+    }
+  }
+}

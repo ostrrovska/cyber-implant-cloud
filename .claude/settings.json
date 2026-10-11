@@ -1,0 +1,32 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python *)",
+      "Bash(python3 *)",
+      "Bash(py *)",
+      "Bash(pip *)",
+      "Bash(pip3 *)",
+      "Bash(docker *)",
+      "Bash(docker-compose *)",
+      "Bash(ruff *)",
+      "Bash(pre-commit *)",
+      "Bash(alembic *)",
+      "Bash(pytest *)",
+      "Bash(uvicorn *)",
+      "Bash(.venv/Scripts/python *)",
+      "Bash(.venv/Scripts/pip *)",
+      "Bash(.venv/Scripts/ruff *)",
+      "Bash(.venv/Scripts/pre-commit *)",
+      "Bash(.venv/Scripts/alembic *)",
+      "Bash(.venv/Scripts/pytest *)",
+      "Bash(.venv/Scripts/uvicorn *)",
+      "Bash(.venv/bin/python *)",
+      "Bash(.venv/bin/pip *)",
+      "Bash(.venv/bin/ruff *)",
+      "Bash(.venv/bin/pre-commit *)",
+      "Bash(.venv/bin/alembic *)",
+      "Bash(.venv/bin/pytest *)",
+      "Bash(.venv/bin/uvicorn *)"
+    ]
+  }
+}
